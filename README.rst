@@ -7,6 +7,7 @@ Simple way to add an activation step to the creation of your users.
 Installation
 ------------
 
+    pip install django-activation
 
 Usage
 -----
